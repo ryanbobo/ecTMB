@@ -1,6 +1,6 @@
 # ecTMB: estimation and classification of TMB
 
-ecTMB is a powerful and flexible statistical framework for TMB estimation and classification. It uses an explicit background mutation mdoel for more robust and consistent TMB prediction. The backgournd mutation model takes account of unknown as well as known mutational heterogeneous factors, including tri-nucleotide context, sample mutational burden, gene expression level and replication timing by utilization of a Bayesian framework. The discovery of three TMB-based subtypes, including one novel subtype TMB-extreme, enable ecTMB to classify samples to biological and clinically relavent TMB subtypes.
+ecTMB is a powerful and flexible statistical framework for TMB estimation and classification. It uses an explicit background mutation model for more robust and consistent TMB prediction. The backgournd mutation model takes account of unknown as well as known mutational heterogeneous factors, including tri-nucleotide context, sample mutational burden, gene expression level and replication timing by utilization of a Bayesian framework. The discovery of three TMB-based subtypes, including one novel subtype TMB-extreme, enable ecTMB to classify samples to biological and clinically relavent TMB subtypes.
 
 ## Table of Contents
 **[Dependency](#dependency)**<br>
